@@ -1,0 +1,54 @@
+# =========================
+# Java
+# =========================
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# BlueJ
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# =========================
+# Eclipse
+# =========================
+.project
+.classpath
+.settings/
+bin/
+
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+out/
+
+# =========================
+# Maven / Gradle
+# =========================
+target/
+build/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / temp
+# =========================
+logs/
+*.log
+tmp/
