@@ -30,7 +30,7 @@ public class EqpMessageRep extends EqpMessageBase {
                 }
             }
 
-            // 5. 최종적으로 전송할 메시지 문자열 반환
+            // 5. 최종적으로 전송할 메시지 문자열 반환한다.
             return this.toString();
 
         } catch (IllegalArgumentException e) {
