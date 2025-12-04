@@ -28,7 +28,7 @@ public class EqpMessageRep extends EqpMessageBase {
                     // 4. 조건이 모두 충족되면 SendMessage 설정함
                     this.SendMessage = "EAPMES_CARRIER_ARRIVED";
                 }
-            }
+            } //feat2
 
             // 5. 최종적으로 전송할 메시지 문자열 반환한다.
             return this.toString();
