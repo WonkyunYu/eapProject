@@ -3,7 +3,6 @@ package com.eap.message.eqp;
 public class EqpMessageRep extends EqpMessageBase {
 
     public EqpMessageRep() {}
-
     
     public String carrierArrived() {
 
