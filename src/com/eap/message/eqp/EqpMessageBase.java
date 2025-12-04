@@ -52,7 +52,7 @@ public class EqpMessageBase {
 				+ MessageFormat + ", carrierId=" + carrierId + ", lotId=" + lotId + ", SendMessage=" + SendMessage
 				+ "]";
 	}
-	//생성을 기능했다
+	// 충돌을 일으켰다
 
 	
 	
