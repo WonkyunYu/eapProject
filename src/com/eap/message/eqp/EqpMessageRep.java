@@ -25,7 +25,7 @@ public class EqpMessageRep extends EqpMessageBase {
                         throw new IllegalArgumentException("error : lotId가 비어있습니다");
                     }
 
-                    // 4. 조건이 모두 충족되면 SendMessage 설정
+                    // 4. 조건이 모두 충족되면 SendMessage 설정함
                     this.SendMessage = "EAPMES_CARRIER_ARRIVED";
                 }
             }
